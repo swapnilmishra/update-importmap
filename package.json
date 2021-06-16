@@ -1,0 +1,8 @@
+{
+  "name": "update-importmap",
+  "version": "0.0.2",
+  "description": "Tooling to update importmap.json file from micro-frontends",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": "git@github.com:swapnilmishra/update-importmap.git"
+}
